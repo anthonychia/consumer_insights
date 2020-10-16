@@ -1,1 +1,1 @@
-## Classification problems in direct marketing
+## Classification problem in direct marketing
